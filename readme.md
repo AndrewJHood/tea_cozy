@@ -1,0 +1,1 @@
+This is a project from codecademy.com's path to full-stack engineer. Images were given by codecademy via download. A redline image was also given. The rest is authored by Andrew Hood. 
